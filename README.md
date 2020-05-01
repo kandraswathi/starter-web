@@ -1,4 +1,5 @@
 # Starter Web Repo
+this is a simple web site project
 #introduction
 #purpose
 #how tocontribute
