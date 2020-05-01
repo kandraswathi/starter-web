@@ -1,6 +1,7 @@
 # Starter Web Repo
 this is a simple web site project
 #introduction
+this is example is to show different parts of the git
 #purpose
 #how tocontribute
 #deployment
