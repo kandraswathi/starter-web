@@ -6,8 +6,7 @@ this is example is to show different parts of the git
 #how tocontribute
 this is a simple website project
 #deployment
-
-
+all files
 
 
 
