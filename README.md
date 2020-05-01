@@ -4,6 +4,7 @@ this is a simple web site project
 this is example is to show different parts of the git
 #purpose
 #how tocontribute
+this is a simple website project
 #deployment
 
 
